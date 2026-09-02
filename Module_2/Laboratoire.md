@@ -30,17 +30,3 @@ Prendre le contrôle d'une machine Windows XP vulnérable, extraire les mots de 
 * Lancer le terminal sur la machine kali.
 * Lancer l'outil msfconsole
 
-
----
-
-### Question 3 : Quelles sont les versions des applications qui tournent sur les hôtes ?
-* **Ce qu'il faut faire :** Trouver le nom et le numéro de version des programmes qui utilisent les ports ouverts.
-* **Preuve demandée :** Capture d'écran où la colonne **VERSION** est visible (par exemple : Apache 2.4, OpenSSH 8.2...).
-
----
-
-### Question 4 : Quel est le système d’exploitation des hôtes ?
-* **Ce qu'il faut faire :** Savoir si la machine cible utilise Windows, Linux ou un autre système.
-* **Preuve demandée :** Capture d'écran montrant la ligne avec le système d'exploitation détecté (*Running* ou *OS details*).
-
----
