@@ -22,7 +22,7 @@ Prendre le contrôle d'une machine Windows XP vulnérable, extraire les mots de 
 
 * Trouvez l'adresse IP de la machine Windows XP.
 * Vérifiez que le port **445 (SMB)** est bien ouvert.
-
+![screenshot](../images/2.png)
 ---
 
 ### Étape 2 : Lancer l'attaque avec Metasploit
