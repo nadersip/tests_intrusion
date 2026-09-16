@@ -141,51 +141,6 @@ Elle ajoute notamment des fonctionnalités comme :
 
 ---
 
-# 🌐 Fonctionnement TCP et UDP
-
-Netcat peut utiliser deux principaux protocoles de transport.
-
-### TCP
-
-TCP est orienté connexion.
-
-```text
-Client                         Serveur
-  │                               │
-  │──── Establish connection ────>│
-  │                               │
-  │──── Data ───────────────────>│
-  │<─── Data ─────────────────────│
-  │                               │
-  └──────── Close connection ─────┘
-```
-
-Exemple :
-
-```bash
-nc example.com 80
-```
-
-### UDP
-
-UDP est sans connexion.
-
-```text
-Client                         Serveur
-  │                               │
-  │──────── UDP datagram ────────>│
-  │                               │
-  │──────── UDP datagram ────────>│
-```
-
-Pour utiliser UDP :
-
-```bash
-nc -u <IP> <PORT>
-```
-
----
-
 # 🧩 Syntaxe de base
 
 La syntaxe générale dépend de l'implémentation, mais on retrouve généralement :
