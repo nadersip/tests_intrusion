@@ -1,16 +1,17 @@
 # 💥 Module 4 : Introduction à Metasploit Framework (MSF)
 
-Guide de référence rapide et support de cours pour la prise en main de Metasploit Framework dans le cadre de tests d'intrusion éthiques.
+Metasploit est un framework d'évaluation de sécurité et d'audit offensif (*pentesting*). Conçu à l'origine en 2003 par HD Moore et repris par Rapid7 en 2009, il offre un écosystème modulaire permettant d'automatiser la reconnaissance, la validation de vulnérabilités et l'exploitation de systèmes distants.
 
 ---
-
-## 1. Vue d'ensemble
-
-**Metasploit** est un framework d'évaluation de sécurité et d'audit offensif (*pentesting*). Conçu à l'origine en 2003 par HD Moore et repris par Rapid7 en 2009, il offre un écosystème modulaire permettant d'automatiser la reconnaissance, la validation de vulnérabilités et l'exploitation de systèmes distants.
+> ⚠️ **Avertissement**
+>
+> Les exemples de scan, de reconnaissance et de connexion à des services doivent être exécutés uniquement sur des systèmes que vous possédez ou pour lesquels vous avez une autorisation explicite.
+> Pour les démonstrations de cybersécurité, privilégiez un environnement de laboratoire isolé.
 
 ### Principales versions
 
 - **Metasploit Framework (MSF) :** Version open-source en ligne de commande, maintenue par la communauté et Rapid7. C'est l'outil de référence utilisé sur Kali Linux.
+
 - **Metasploit Pro :** Solution d'entreprise commerciale proposant une interface web, des fonctionnalités avancées d'automatisation, des tests d'ingénierie sociale (phishing) et des rapports d'audit complets.
 
 ---
