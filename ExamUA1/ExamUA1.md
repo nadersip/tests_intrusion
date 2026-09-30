@@ -25,4 +25,4 @@ Dans l’examen, vous allez appliquer tout ce que nous avons vu en classe :
 * Trouver une méthode pour obtenir l'accès à la victime et documenter la procédure.
 
 ## 🏆 Mission : Extraction du flag (Machine cible)
-* Transférer le texte écrit dans le fichier « secret » sur votre machine Kali et documenter la procédure.
+* Transférer le texte écrit dans le fichier « CTF » sur votre machine Kali et documenter la procédure.
