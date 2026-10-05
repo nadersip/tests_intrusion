@@ -1,16 +1,16 @@
-# Guide Pratique MSFvenom : Génération et Encodage de Payloads
+# 💉 Module 6 : MSFvenom Génération et Encodage de Payloads
 
-Ce guide présente les fondamentaux de **MSFvenom**, le générateur autonome de charges utiles (*payloads*) intégré au framework Metasploit.
+Ce guide présente les fondamentaux de **MSFvenom**, le générateur de payloads intégré au framework Metasploit.
 
 ---
 
-## 1. Introduction à MSFvenom
+## 📖 Introduction à MSFvenom
 
 Au sein de l'écosystème Metasploit, **MSFvenom** est né de la fusion de deux anciens utilitaires :
-* **`msfpayload`** : servait à configurer et générer les binaires de charge utile.
+* **`msfpayload`** : servait à configurer et générer les binaires (payloads)
 * **`msfencode`** : servait à obfusquer et éliminer les *bad characters* (octets nuls, retours chariots, etc.).
 
-L'objectif de MSFvenom est de créer des exécutables, des scripts ou du code brut (*shellcode*) qui, une fois exécutés sur un système distant, établissent une communication avec la machine de l'auditeur (shell standard, session Meterpreter, etc.).
+L'objectif de MSFvenom est de créer des exécutables, des scripts ou du code brut (*shellcode*) qui, une fois exécutés sur un système distant, établissent une communication avec la machine de du pirate (shell standard, session Meterpreter, etc.).
 
 ---
 
