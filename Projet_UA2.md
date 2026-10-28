@@ -32,4 +32,5 @@ Vous devez déposer votre vidéo dans le **Pigeonnier**, en respectant la date d
 
 ## Date de soumission
 
-**18 Novembre 2026**
+**18 Novembre 2026 pour le groupe 10**
+**20 Novembre 2026 pour le groupe 20**
